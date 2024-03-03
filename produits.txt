@@ -1,0 +1,6 @@
+1;Produit1;22;33
+2;Produit2;10;40
+5;Produit5;6;60
+6;Produit6;20;70
+7;Produit7;10;60
+8;Produit8;50;40
